@@ -7,7 +7,7 @@ function c2f(num){
 }
 let f = c2f (c);
 
-let msg = c + 'degrees Celsius is ' + f + ' degrees in Fahrenheit.';
+let msg = c + ' degrees Celsius is ' + f + ' degrees in Fahrenheit.';
 console.log(msg);
 
 

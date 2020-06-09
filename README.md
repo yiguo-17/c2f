@@ -32,8 +32,11 @@ Let's do this!
 ##### 2. Create a function for converting Celsius to Fahrenheit. It should take in a number and return a number. Test it with the following inputs:
 
 `0` -> `32`
+
 `100` -> `212`
+
 `5` -> `41`
+
 
 ##### 3. Call that function, passing in the user's input from step 1. Store the results in a variable.
 ##### 4. Create a message that follows the format from the Workflow output, concatenating the user's input (the Celsius temperature) and our output from the preceding step (the Fahrenheit temperature). Store that message string in a variable.
